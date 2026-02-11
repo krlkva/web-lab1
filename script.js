@@ -3,7 +3,8 @@ const products = [
         id: 1,
         name: "CLINIQUE cheek pop оттенок Black Honey",
         price: 2500,
-        image: "images/blush 2.JPG"
+        image: "images/blush 2.JPG",
+        badge: "NEW"
     },
     {
         id: 2,
@@ -15,7 +16,8 @@ const products = [
         id: 3,
         name: "Гель-фиксатор для бровей PUSY",
         price: 1000,
-        image: "images/eyebrow_gel.JPG"
+        image: "images/eyebrow_gel.JPG",
+        badge: "BEST SELLER"
     },
     {
         id: 4,
@@ -27,7 +29,8 @@ const products = [
         id: 5,
         name: "Кремовые румяна RHODE в стике оттенок Piggi",
         price: 6500,
-        image: "images/blush.JPG"
+        image: "images/blush.JPG",
+        badge: "NEW"
     },
     {
         id: 6,
