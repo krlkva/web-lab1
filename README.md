@@ -11,24 +11,24 @@
 
 ### Макет и верстка
 1. Создана HTML-страница магазина с карточками товаров, названием, ценой и кнопками «Добавить в корзину».
-![](https://github.com/krlkva/web-lab1/blob/main/report%201/1.jpg))
+![](https://github.com/krlkva/web-lab1/blob/main/report%201/1.jpg)
 
 3. Использована семантическая разметка.
 
 Семантическую разметку можно рассмотреть в html-файле
 
 3. Форма содержит все обязательные поля: имя, фамилия, адрес доставки, контактный номер телефона и кнопку «Создать заказ».
-![](report 1/2.jpg)
+![](https://github.com/krlkva/web-lab1/blob/main/report%201/2.jpg)
 
 ### Адаптивность
 
 1. Сайт корректно отображается на ноутбуке и планшете.
-![](report 1/3.jpg)
-![](report 1/6.jpg)
-![](report 1/7.jpg)
+![](https://github.com/krlkva/web-lab1/blob/main/report%201/3.jpg)
+![](https://github.com/krlkva/web-lab1/blob/main/report%201/6.jpg)
+![](https://github.com/krlkva/web-lab1/blob/main/report%201/7.jpg)
 3. Сайт корректно отображается на телефоне
-![](report 1/4.jpg)
-![](report 1/5.jpg)
+![](https://github.com/krlkva/web-lab1/blob/main/report%201/4.jpg)
+![](https://github.com/krlkva/web-lab1/blob/main/report%201/5.jpg)
 
 ### Логика корзины
 1. Реализация добавления товара в корзину при нажатии на кнопку.
@@ -42,5 +42,5 @@
 1. Форма открывается при нажатии на кнопку «Оформить заказ»
 2. После заполнения всех полей и нажатия «Создать заказ» появляется сообщение «Заказ создан!»
 
-[Видео](https://disk.yandex.ru/i/Rk9GQtn2aXLHIA)с работоспособностью сайта (https://disk.yandex.ru/i/Rk9GQtn2aXLHIA)
+[Видео](https://disk.yandex.ru/i/Rk9GQtn2aXLHIA) с работоспособностью сайта 
 
